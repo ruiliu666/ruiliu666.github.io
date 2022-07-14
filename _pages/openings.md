@@ -1,5 +1,5 @@
 ---
-title: "SuoLab - Positions"
+title: "HuLab - Positions"
 layout: positions
 excerpt: "Openings"
 sitemap: false
