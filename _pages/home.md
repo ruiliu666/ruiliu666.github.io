@@ -1,7 +1,7 @@
 ---
-title: "HuLab - Home"
+title: "SuoLab - Home"
 layout: homelay
-excerpt: "HuLab at GZLab."
+excerpt: "SuoLab at GZLab."
 sitemap: false
 permalink: /
 ---
