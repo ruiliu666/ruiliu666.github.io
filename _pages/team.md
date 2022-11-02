@@ -63,13 +63,14 @@ permalink: /team/
 ### Alumni
 <div style="padding-left: 0px;">
 <div class="well"  style="height: 168px; width: 945px">
-<img src="/images/alumnipic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
-<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
+<img src="/images/alumnipic/YaoshenLi.jpeg" width="10%" style="float: left;"/>
+<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yaoshen Li<strong></h5>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Research Assistant</i></p>
 <ul style="list-style-type:square; overflow: hidden">
-<li>2019-2021&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
-<li>2017-2019&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
-<li>2013-2017&nbsp;&nbsp;Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
+<li>2016-2016&nbsp;&nbsp; Visiting Scholar, Purdue University</li>
+<li>2014-2016&nbsp;&nbsp; Master, Shanxi Agricultural University</li>
+<li>2010-2014&nbsp;&nbsp; B.S., Shanxi Agricultural University</li>
+</li>
 </ul>
 </div>
 </div>
