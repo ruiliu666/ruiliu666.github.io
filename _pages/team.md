@@ -61,19 +61,6 @@ permalink: /team/
 {% endfor %}
 
 ### Alumni
-<div style="padding-left: 0px;">
-<div class="well"  style="height: 168px; width: 945px">
-<img src="/images/alumnipic/YaoshenLi.jpeg" width="10%" style="float: left;"/>
-<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yaoshen Li<strong></h5>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Research Assistant</i></p>
-<ul style="list-style-type:square; overflow: hidden">
-<li>2016-2016&nbsp;&nbsp; Visiting Scholar, Purdue University</li>
-<li>2014-2016&nbsp;&nbsp; Master, Shanxi Agricultural University</li>
-<li>2010-2014&nbsp;&nbsp; B.S., Shanxi Agricultural University</li>
-</li>
-</ul>
-</div>
-</div>
 
 
 {% for member in site.data.alumni_members %}
