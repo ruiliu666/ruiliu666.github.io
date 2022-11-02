@@ -75,10 +75,10 @@ permalink: /team/
 </div>
 
 
-{% for member in site.data.team_members %}
+{% for member in site.data.alumni_members %}
 <div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
   <div class="well"  style="height: 168px; width: 945px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/alumnipic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
   <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ member.name }}<strong></h5>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>{{ member.info }}</i></p>
   <ul style="list-style-type:square; overflow: hidden">
