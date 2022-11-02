@@ -60,6 +60,54 @@ permalink: /team/
 </div>
 {% endfor %}
 
+### Alumni
+<div style="padding-left: 0px;">
+<div class="well"  style="height: 168px; width: 945px">
+<img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
+<h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
+<ul style="list-style-type:square; overflow: hidden">
+<li>2019-2021&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard Medical School</li>
+<li>2017-2019&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li>
+<li>2013-2017&nbsp;&nbsp;Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li>
+</ul>
+</div>
+</div>
+
+
+{% for member in site.data.team_members %}
+<div style="padding-left: 0px; display:inline-block;margin-top:-10px;">
+  <div class="well"  style="height: 168px; width: 945px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="10%" style="float: left" />
+  <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ member.name }}<strong></h5>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>{{ member.info }}</i></p>
+  <ul style="list-style-type:square; overflow: hidden">
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+  </ul>
+</div>
+</div>
+{% endfor %}
+
 <!-- ### Graduate Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
