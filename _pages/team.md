@@ -63,7 +63,7 @@ permalink: /team/
 ### Alumni
 <div style="padding-left: 0px;">
 <div class="well"  style="height: 168px; width: 945px">
-<img src="/images/teampic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
+<img src="/images/alumnipic/ShengbaoSuo.jpg" width="10%" style="float: left;"/>
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shengbao Suo<strong></h5>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
 <ul style="list-style-type:square; overflow: hidden">
